@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Plataforma-de-Produtos
+  name: "Plataforma-de-Produtos"
   annotations:
     grafana/dashboard-selector: "produtos-api"
 spec:
